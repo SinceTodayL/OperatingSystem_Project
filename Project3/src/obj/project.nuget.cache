@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FjtlBlxvILI=",
+  "dgSpecHash": "r8BcuZqdVnc=",
   "success": true,
-  "projectFilePath": "E:\\_2024-2025_Undergraduate_Year2_Spring\\Operating_System\\Project3\\src\\FileManagerSystem.csproj",
+  "projectFilePath": "E:\\_2024-2025_Undergraduate_Year2_Spring\\Operating_System\\Project\\Project3\\src\\FileManagerSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LiuZh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\LiuZh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",

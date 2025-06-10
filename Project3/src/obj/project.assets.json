@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\_2024-2025_Undergraduate_Year2_Spring\\Operating_System\\Project3\\src\\FileManagerSystem.csproj",
+      "projectUniqueName": "E:\\_2024-2025_Undergraduate_Year2_Spring\\Operating_System\\Project\\Project3\\src\\FileManagerSystem.csproj",
       "projectName": "FileManagerSystem",
-      "projectPath": "E:\\_2024-2025_Undergraduate_Year2_Spring\\Operating_System\\Project3\\src\\FileManagerSystem.csproj",
+      "projectPath": "E:\\_2024-2025_Undergraduate_Year2_Spring\\Operating_System\\Project\\Project3\\src\\FileManagerSystem.csproj",
       "packagesPath": "C:\\Users\\LiuZh\\.nuget\\packages\\",
-      "outputPath": "E:\\_2024-2025_Undergraduate_Year2_Spring\\Operating_System\\Project3\\src\\obj\\",
+      "outputPath": "E:\\_2024-2025_Undergraduate_Year2_Spring\\Operating_System\\Project\\Project3\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\VS2022\\NuGetPackages"
